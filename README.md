@@ -1,2 +1,2 @@
 # Paradigmas
-Atividades Paradigmas 6
+Atividades Paradigmas 

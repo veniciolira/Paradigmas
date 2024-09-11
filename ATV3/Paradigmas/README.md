@@ -1,0 +1,2 @@
+# Paradigmas
+Atividades Paradigmas 
